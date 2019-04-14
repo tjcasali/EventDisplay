@@ -1,0 +1,54 @@
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\bin\Debug\EventDisplay.exe.config
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\bin\Debug\EventDisplay.exe
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\bin\Debug\EventDisplay.pdb
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\bin\Debug\HtmlAgilityPack.dll
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\bin\Debug\HtmlAgilityPack.xml
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay.csprojAssemblyReference.cache
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\App.g.cs
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay_MarkupCompile.cache
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay_MarkupCompile.lref
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\MainWindow.baml
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay.g.resources
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay.Properties.Resources.resources
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay.csproj.GenerateResource.cache
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay.csproj.CoreCompileInputs.cache
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay.csproj.CopyComplete
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay.exe
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\EventDisplay.pdb
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\AllEventsWindow.g.cs
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\AllEventsWindow.baml
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\ClemensEventsWindow.g.cs
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\CommunityEventsWindow.g.cs
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\KovarikEventsWindow.g.cs
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\ClemensEventsWindow.baml
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\CommunityEventsWindow.baml
+C:\Users\timc\source\repos\EventDisplay\EventDisplay\obj\Debug\KovarikEventsWindow.baml
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\bin\Debug\EventDisplay.exe.config
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\bin\Debug\EventDisplay.exe
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\bin\Debug\EventDisplay.pdb
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\bin\Debug\HtmlAgilityPack.dll
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\bin\Debug\HtmlAgilityPack.xml
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay.csprojAssemblyReference.cache
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\AllEventsWindow.g.cs
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\ClemensEventsWindow.g.cs
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\CommunityEventsWindow.g.cs
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\KovarikEventsWindow.g.cs
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\App.g.cs
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay_MarkupCompile.cache
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay_MarkupCompile.lref
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\AllEventsWindow.baml
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\ClemensEventsWindow.baml
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\CommunityEventsWindow.baml
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\KovarikEventsWindow.baml
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\MainWindow.baml
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay.g.resources
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay.Properties.Resources.resources
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay.csproj.GenerateResource.cache
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay.csproj.CoreCompileInputs.cache
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay.csproj.CopyComplete
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay.exe
+C:\Users\timca\OneDrive\Documents\Visual Studio 2017\EventDisplay-master\EventDisplay\obj\Debug\EventDisplay.pdb
