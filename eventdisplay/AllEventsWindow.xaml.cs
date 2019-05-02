@@ -21,7 +21,13 @@ namespace EventDisplay
     {
         public AllEventsWindow()
         {
+            WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
             InitializeComponent();
+        }
+
+        private void AEWCloseWindow_Click(object sender, RoutedEventArgs e)
+        {
+            AllEventsWindow1.Close();
         }
     }
 }

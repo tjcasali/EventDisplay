@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EventDisplay"
         mc:Ignorable="d"
-        Title="ClemensEventsWindow" Height="768" Width="1366" WindowState="Maximized">
+        Title="LPL: Clemens Room Events" Height="1080" Width="1920" WindowState="Maximized" WindowStyle="None">
 
 
     <Window.Background>
@@ -13,33 +13,64 @@
     </Window.Background>
 
     <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="Auto" MinWidth="1861"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:Name="CEWTodaysEventsTB" HorizontalAlignment="Center" Height="75" Margin="665,56,663,0" Text="Clemens Room" 
+                 VerticalAlignment="Top" Width="508" FontSize="60" FontFamily="Century Gothic" FontWeight="Bold"
+                 BorderBrush="{x:Null}" Foreground="#FF1F5D46" SelectionBrush="{x:Null}" 
+                 TextAlignment="Center" IsReadOnly="True" Grid.Column="1"/>
+
         <TextBox 
-            x:Name="CEWDateTB" HorizontalAlignment="Center" Height="52" Margin="540,76,562,0" 
-            TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="30" FontWeight="Bold" 
-            Foreground="#FF1F5D46" Grid.Column="0" Grid.Row="0" Background="{x:Null}" BorderBrush="{x:Null}" IsReadOnly="True">
+            x:Name="CEWDateTB" HorizontalAlignment="Center" Height="78"
+            TextWrapping="Wrap" VerticalAlignment="Top" Width="436" FontSize="38" TextAlignment="Center"
+            Foreground="#FF1F5D46" Grid.Column="1" Background="{x:Null}" BorderBrush="{x:Null}" IsReadOnly="True" 
+            FontWeight="Bold" FontFamily="Century Gothic" Margin="711,155,721,0">
+            <TextBox.Effect>
+                <DropShadowEffect BlurRadius="5" ShadowDepth="2" Color="White"></DropShadowEffect>
+            </TextBox.Effect>
         </TextBox>
 
-        <ListView x:Name="CEWListView" HorizontalAlignment="Left" Height="490" Margin="60,178,0,0" VerticalAlignment="Top" Width="1234" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FF1F5D46" FontFamily="Arial" FontSize="18" >
+        <Button x:Name="CEWCloseWindow" Content="Quit to Main Menu" HorizontalAlignment="Left" Margin="1710,876,0,0" 
+                VerticalAlignment="Top" Width="125" Height="60" BorderBrush="{x:Null}" Foreground="{x:Null}" Background="{x:Null}" 
+                Grid.Column="1" Click="CEWCloseWindow_Click" RenderTransformOrigin="0.988,1.217"/>
+
+        <ListView x:Name="CEWListView" HorizontalAlignment="Left" Height="765" Margin="206,265,0,0" VerticalAlignment="Top" Width="1450" 
+                  BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" FontFamily="Arial" FontSize="24" Grid.Column="1">
             <ListView.Resources>
                 <Style TargetType="GridViewColumnHeader">
                     <Setter Property="Visibility" Value="Collapsed" />
                 </Style>
             </ListView.Resources>
 
+            <ListView.Effect>
+                <DropShadowEffect BlurRadius="5" ShadowDepth="3" Color="White"></DropShadowEffect>
+            </ListView.Effect>
+
             <ListView.ItemContainerStyle>
                 <Style TargetType="{x:Type ListViewItem}">
                     <Style.Triggers>
                         <DataTrigger Binding="{Binding Path=Name}" Value="Children's Programs">
                             <Setter Property="FontWeight" Value="Bold" />
-                            <Setter Property="FontSize" Value="20 px" />
+                            <Setter Property="FontSize" Value="30 px" />
+                            <Setter Property="Foreground" Value="#FF125546"/>
+                            <Setter Property="FontFamily" Value="Century Gothic"/>
                         </DataTrigger>
-                        <DataTrigger Binding="{Binding Path=Name}" Value="Teens Programs">
+                        <DataTrigger Binding="{Binding Path=Name}" Value="Teen Programs">
                             <Setter Property="FontWeight" Value="Bold" />
-                            <Setter Property="FontSize" Value="20 px" />
+                            <Setter Property="FontSize" Value="30 px" />
+                            <Setter Property="Foreground" Value="#FF125546"/>
+                            <Setter Property="FontFamily" Value="Century Gothic"/>
                         </DataTrigger>
                         <DataTrigger Binding="{Binding Path=Name}" Value="Adult Programs">
                             <Setter Property="FontWeight" Value="Bold" />
-                            <Setter Property="FontSize" Value="20 px" />
+                            <Setter Property="FontSize" Value="30 px" />
+                            <Setter Property="Foreground" Value="#FF125546"/>
+                            <Setter Property="FontFamily" Value="Century Gothic"/>
                         </DataTrigger>
                     </Style.Triggers>
                 </Style>
@@ -48,7 +79,7 @@
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Time" DisplayMemberBinding="{Binding Time}" Width="300"/>
-                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="600"/>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="800"/>
                     <GridViewColumn Header="Room" DisplayMemberBinding="{Binding Room}" Width ="300"/>
                 </GridView>
             </ListView.View>

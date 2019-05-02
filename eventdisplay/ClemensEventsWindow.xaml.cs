@@ -23,5 +23,11 @@ namespace EventDisplay
         {
             InitializeComponent();
         }
+
+        private void CEWCloseWindow_Click(object sender, RoutedEventArgs e)
+        {
+            ClemensEventsWindow1.Close();
+        }
+
     }
 }

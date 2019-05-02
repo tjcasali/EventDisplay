@@ -23,5 +23,10 @@ namespace EventDisplay
         {
             InitializeComponent();
         }
+
+        private void CEWCloseWindow_Click(object sender, RoutedEventArgs e)
+        {
+            CommunityEventsWindow1.Close();
+        }
     }
 }

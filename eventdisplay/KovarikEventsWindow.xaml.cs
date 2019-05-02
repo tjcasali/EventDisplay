@@ -23,5 +23,10 @@ namespace EventDisplay
         {
             InitializeComponent();
         }
+
+        private void KEWCloseWindow_Click(object sender, RoutedEventArgs e)
+        {
+            KovarikEventsWindow1.Close();
+        }
     }
 }
