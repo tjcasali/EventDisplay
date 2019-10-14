@@ -4,6 +4,6 @@ At the Longwood Public Library when I was working IT, we had an administrator ma
 
 So I created this GUI application with C# WPF that scrapes our home page, and puts the events into categories (Adult/Teen/Children programs) and puts them over the background image the administrator was using.
 
-I'm no longer working for the Longwood Public Library but this is still actively being used today.
+I'm no longer working for the Longwood Public Library but this is still actively being used.
 
 Images: https://imgur.com/a/wG62LGC
